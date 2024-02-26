@@ -6,6 +6,14 @@
 
 🗒️ Estou cursando Programação
 
+```Profissionalizado```
+
+📸 Fotografo
+
+🎥 Cinegrafista
+
+🖥️ Editor de Video
+
 ```Redes Sociais```
 
 </div>
