@@ -20,7 +20,6 @@
 
 </div>
   <img align="center" alt="Vini-Python" height="25" width="333" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-  <img align="right" alt="Vini-Python" height="180" width="350" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 </div>
 
 ```Meus Progressos```
