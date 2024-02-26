@@ -1,10 +1,12 @@
 ## Ola, eu sou o Vinicius Junio, muito prazer!
 
+```Estudos Adicionais```
+
 🎓 Sou Formando em Administração 
 
 🗒️ Estou cursando Programação
 
-Redes Sociais
+```Redes Sociais```
 
 </div>
   <img align="center" alt="Vini-Python" height="25" width="333" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
@@ -18,13 +20,18 @@ Redes Sociais
 
 </div>
   <img align="center" alt="Vini-Python" height="25" width="333" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <img align="right" alt="Vini-Python" height="180" width="350" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 </div>
+
+```Meus Progressos```
 
 <div>
   <a href="https://github.com/viniciusjunio05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+```Linguagens que estou estudando```
 
 <div>
   <img align="center" alt="Vini-Python" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
