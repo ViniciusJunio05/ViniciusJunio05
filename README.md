@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-```Linguagens que estou estudando```
+```Linguagem que estou estudando```
 
 <div>
   <img align="center" alt="Vini-Python" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
