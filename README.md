@@ -1,3 +1,5 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Febaconline.com.br%2Fblog%2Fcomo-aprender-o-basico-de-programacao&psig=AOvVaw1EqDSUkMKI8LspG7SocoEZ&ust=1709228575859000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODv3O3KzoQDFQAAAAAdAAAAABAT)](your GitHub link)
+
 ## Ola, eu sou o Vinicius Junio, muito prazer!
 
 ```Estudos Adicionais```
@@ -34,7 +36,8 @@
 
 <div>
   <a href="https://github.com/viniciusjunio05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusJunio05&theme=dark&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ```Linguagem que estou estudando```
