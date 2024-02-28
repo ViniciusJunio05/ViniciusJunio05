@@ -1,5 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Febaconline.com.br%2Fblog%2Fcomo-aprender-o-basico-de-programacao&psig=AOvVaw1EqDSUkMKI8LspG7SocoEZ&ust=1709228575859000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODv3O3KzoQDFQAAAAAdAAAAABAT)](your GitHub link)
-
 ## Ola, eu sou o Vinicius Junio, muito prazer!
 
 ```Estudos Adicionais```
