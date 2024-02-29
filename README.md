@@ -1,5 +1,5 @@
 <div align="center">
-<img height="400" width="1100" src="https://github.com/ViniciusJunio05/ViniciusJunio05/assets/160124047/393294e9-f5d7-42aa-9f26-3bce78875396" width="700px" />
+<img height="300" width="1100" src="https://github.com/ViniciusJunio05/ViniciusJunio05/assets/160124047/393294e9-f5d7-42aa-9f26-3bce78875396" width="700px" />
 </div>
 
 ```Estudos Adicionais```
