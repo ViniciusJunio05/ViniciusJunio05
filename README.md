@@ -1,10 +1,6 @@
 <p align="center">
 <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=30&duration=3000&pause=500&color=F70000&center=&vCenter=&repeat=&random=falso&width=435&lines=Seja+bem+Vindo!;Meu+nome+%C3%A9+Vinicius." alt="Typing SVG" /></a>
 
-<div align="center">
-<img height="300" width="1100" src="https://github.com/ViniciusJunio05/ViniciusJunio05/assets/160124047/393294e9-f5d7-42aa-9f26-3bce78875396" width="700px" />
-</div>
-
 ```Estudos Adicionais```
 
 🎓 Sou Formando em Administração 
