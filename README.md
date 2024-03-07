@@ -35,7 +35,7 @@
 
 <div>
   <a href="https://github.com/viniciusjunio05">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusJunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <a href="https://git.io/streak-stats"><img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusJunio05&theme=dark&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
