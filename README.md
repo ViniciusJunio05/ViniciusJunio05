@@ -15,6 +15,14 @@
 
 🖥️ Editor de Video
 
+```Hobbie```
+
+Jogo
+
+Saio para curtir a vida
+
+Crio Servidores de Discord
+
 ```Redes Sociais```
 
 </div>
